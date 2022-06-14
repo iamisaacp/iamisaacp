@@ -1,8 +1,8 @@
 # Hi there, I'm Isaac Toyin 👋
 <p > (Open for Hiring)</p>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=iamisaacp&count_private=true&show_icons=true&theme=radical" align="left" width="54%"  alt="Isaac's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamisaacp&layout=compact&theme=radical"  width="40%" alt="Isaac's Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=toyintheisaac&count_private=true&show_icons=true&theme=radical" align="left" width="54%"  alt="Isaac's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyintheisaac&layout=compact&theme=radical"  width="40%" alt="Isaac's Top Langs" />
 
 <br/>
 <h3 > 🔭 My Top LangsTool</h3>
