@@ -5,6 +5,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyintheisaac&layout=compact&theme=radical"  width="40%" alt="Isaac's Top Langs" />
 
 <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toyintheisaac&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
 <h3 > 🔭 My Top LangsTool</h3>
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
